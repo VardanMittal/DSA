@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
+
+    // learning how the conditionals works in C++
     int age;
     cin >> age;
 
